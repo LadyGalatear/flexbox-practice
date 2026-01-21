@@ -15,7 +15,12 @@ header {
 }
 
 .nav-link {
-    
+    margin: 0 1rem;
+}
+
+.user-actions {
+    display: flex;
+    gap: 1rem;
 }
 
 /* 
